@@ -1,0 +1,8 @@
+.bg-img-title {
+    background-size: cover;
+    background-image: url("https://www.ilcontrafforte.com/wp-content/uploads/2018/01/26735552_10215414190450376_939123115_o.jpg");
+}
+.bg-img-storia {
+    max-height: 20rem; 
+    max-width: 15rem;
+}
